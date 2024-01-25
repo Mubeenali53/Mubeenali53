@@ -8,16 +8,10 @@
 
 <p align="left"> <a href="https://twitter.com/_syed_mubeen" target="blank"><img src="https://img.shields.io/twitter/follow/_syed_mubeen?logo=twitter&style=for-the-badge" alt="_syed_mubeen" /></a> </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/mubeenali53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mubeenali53" height="30" width="40" /></a>
 <a href="https://twitter.com/_syed_mubeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_syed_mubeen" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/syed-mubeen-094447227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-mubeen-094447227/" height="30" width="40" /></a>
-<a href="https://medium.com/@syedmubeenali553" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@syedmubeenali553" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
