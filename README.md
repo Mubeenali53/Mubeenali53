@@ -6,9 +6,9 @@
 
 - **Programming Languages:** C, C++, Python
 - **Computer Vision:** OpenCV
+- **Internet of Things (IoT):** Experience in designing and implementing IoT solutions
 <!-- - **Artificial Intelligence and Machine Learning:** Currently exploring and learning
 -->
-- **Internet of Things (IoT):** Experience in designing and implementing IoT solutions
 <!--
 ## Projects
 
