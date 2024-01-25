@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Mubeen Ali</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">An Electronics and Communication Engineer passionate about technology and innovation. This README offers a glimpse into my skill set and project portfolio.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubeenali53&label=Profile%20views&color=0e75b6&style=flat" alt="mubeenali53" /> </p>
 
