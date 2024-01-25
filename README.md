@@ -1,5 +1,5 @@
-# Electronics and Communication Engineer
-
+<!--# Electronics and Communication Engineer
+-->
 👋 Hello, I'm Syed Mubeen Ali, an Electronics and Communication Engineer passionate about technology and innovation. This README offers a glimpse into my skill set and project portfolio.
 
 ## Skills
