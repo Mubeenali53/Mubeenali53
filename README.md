@@ -22,7 +22,7 @@
 
 ## 🚀 Featured Projects
 
-### 1. **VALOR**([VALOR](https://github.com/Mubeenali53/VALOR.git)) – Autonomous Vision-Based Robot
+### 1. [**VALOR**]((https://github.com/Mubeenali53/VALOR.git)) – Autonomous Vision-Based Robot
 
 - 🧠 Integrated **OpenCV** and **GPS** for navigation.
 - 🛡️ Implemented **obstacle avoidance** using **ROS**.
