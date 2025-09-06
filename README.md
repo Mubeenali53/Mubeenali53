@@ -32,19 +32,6 @@
 - ✋ Utilized **MediaPipe** for real-time gesture detection.
 - 🎨 Developed an intuitive UI with **Tkinter**.
 
-### 3. **Smart Irrigation System**
-
-- 💧 Automated plant watering using **Arduino** and **soil moisture sensors**.
-- 🌞 Integrated **solar panel** for energy efficiency.
-
----
-
-## 🏆 Achievements & Contributions
-
-- 🏅 **Hackathon Winner**: Developed a **smart traffic management system**.
-- 🎓 **Workshop Speaker**: Conducted sessions on **AI in Robotics** at T-SIG.
-- 🌱 **Open Source Contributor**: Improved **ROS packages** for better performance.
-
 ---
 
 ## 📬 Get in Touch
@@ -58,14 +45,6 @@
 ## 📊 GitHub Stats
 
 ![Syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mubeenali53&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
----
-
-## 🎯 Currently Working On
-
-- 🤖 Enhancing **VALOR** with **AI-based path planning**.
-- 🧠 Exploring **Reinforcement Learning** for robotics applications.
-- 🛠️ Building a **home automation system** using **ESP32**.
 
 ---
 
