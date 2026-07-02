@@ -1,62 +1,28 @@
 <!-- Banner Image -->
 ![Banner](Banner.jpeg)
 
-# 👋 Hi, I'm Syed Mubeen Ali
+# 💫 About Me:
+🧑‍💻 About Me<br><br>name      : Syed Mubeen Ali<br>role      : DevOps Engineer (Aspiring)<br>mission   : Simplifying software delivery through automation and cloud technologies<br><br>🐧 Passionate about Linux, scripting, and system administration<br>☁️ Building hands-on experience with AWS cloud services<br>🐳 Working with Docker to create portable and consistent environments<br>⚙️ Developing CI/CD workflows with Jenkins and GitHub Actions<br>📦 Learning Infrastructure as Code using Terraform<br>📊 Exploring monitoring, logging, and cloud-native DevOps practices<br>💬 Happy to discuss DevOps, AWS, Linux, Docker, Git, and automation<br>⚡ Always looking for better ways to automate, optimize, and improve workflows.
 
-🎓 **Electronics & Communication Engineer**  
-🔧 Passionate about **AI**, **Robotics**, and **Embedded Systems**  
-📍 Based in **Hyderabad, Telangana, India**
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syed-mubeen-ali/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/_Syed_Mubeen) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedmubeenali553@gmail.com) 
 
-## 🛠️ Technologies & Tools
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=plastic&logo=ros&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=Prometheus&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=plastic&logo=sonarqube&logoColor=4E9BCD) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Mubeenali53&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Mubeenali53&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mubeenali53&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Jetson Nano](https://img.shields.io/badge/-Jetson%20Nano-76B900?style=flat&logo=nvidia&logoColor=white)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mubeenali53&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🚀 Featured Projects
-
-### 1. **VALOR** – Autonomous Vision-Based Robot
-
-- 🧠 Integrated **OpenCV** and **GPS** for navigation.
-- 🛡️ Implemented **obstacle avoidance** using **ROS**.
-
-### 2. **Air Canvas** – Gesture-Controlled Painting App
-
-- ✋ Utilized **MediaPipe** for real-time gesture detection.
-- 🎨 Developed an intuitive UI with **Tkinter**.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mubeenali53&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-## 📬 Get in Touch
-
-- 📧 Email: [syedmubeenali553@gmail.com](mailto:syedmubeenali553@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/syedmubeen](https://linkedin.com/in/syedmubeen)
-- 🌐 Portfolio: [syedmubeen.dev](https://syedmubeen.dev)
-
----
-
-## 📊 GitHub Stats
-
-![Syed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mubeenali53&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
-[![GitHub Stats](https://camo.githubusercontent.com/1f5cf5dde1d4edb2d660cebd44772166084c5eae767c356c8b77c32a66a23648/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d756265656e616c69353326)](https://github.com/Mubeenali53)
-
----
-
-## 🌟 Fun Fact
-
-- ☕ Coffee enthusiast and **night owl coder**.
-- 🎮 Enjoys **gaming** and **3D modeling** in free time.
-
----
-
-## 🔄 Dynamic GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubeenali53&layout=compact&langs_count=10)
+[![](https://komarev.com/ghpvc/?username=Mubeenali53&icon=0&color=0)](https://visitcount.itsvg.in)
