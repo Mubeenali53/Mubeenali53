@@ -1,8 +1,11 @@
 <!-- Banner Image -->
 ![Banner](Banner.jpeg)
 
-# 💫 About Me:
-🧑‍💻 About Me<br><br>name      : Syed Mubeen Ali<br>role      : DevOps Engineer (Aspiring)<br>mission   : Simplifying software delivery through automation and cloud technologies<br><br>🐧 Passionate about Linux, scripting, and system administration<br>☁️ Building hands-on experience with AWS cloud services<br>🐳 Working with Docker to create portable and consistent environments<br>⚙️ Developing CI/CD workflows with Jenkins and GitHub Actions<br>📦 Learning Infrastructure as Code using Terraform<br>📊 Exploring monitoring, logging, and cloud-native DevOps practices<br>💬 Happy to discuss DevOps, AWS, Linux, Docker, Git, and automation<br>⚡ Always looking for better ways to automate, optimize, and improve workflows.
+# 🧑‍💻 About Me:
+**Name**: Syed Mubeen Ali<br>
+**Role**: DevOps Engineer (Aspiring)<br>
+**Mission**: Simplifying software delivery through automation and cloud technologies<br><br>
+🐧 Passionate about Linux, scripting, and system administration<br>☁️ Building hands-on experience with AWS cloud services<br>🐳 Working with Docker to create portable and consistent environments<br>⚙️ Developing CI/CD workflows with Jenkins and GitHub Actions<br>📦 Learning Infrastructure as Code using Terraform<br>📊 Exploring monitoring, logging, and cloud-native DevOps practices<br>💬 Happy to discuss DevOps, AWS, Linux, Docker, Git, and automation<br>⚡ Always looking for better ways to automate, optimize, and improve workflows.
 
 
 ## 🌐 Socials:
@@ -25,7 +28,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Mubeenali53&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Mubeenali53&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div data-importer="profile-views" align="left">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Mubeenali53.Mubeenali53&"  />
